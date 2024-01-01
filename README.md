@@ -3,10 +3,14 @@ This tool can be used to rotate any graph on Desmos (and most other software) by
 
 # How to use:
 1) Go on Desmos and create a new slider for variable "a" that ranges from 0 to 2pi. (You don't need to type the pi symbol just type "pi")
+   
 ![slider](https://i.imgur.com/qUrUX8O.png)
+
 2) Go on the app.
 3) If you have the graph equation copied, just click "Convert Clipboard". Otherwise, type the equation in the textbox and click "Convert Text".
+
 ![app](https://i.imgur.com/NH3bKjA.png)
+
 4) Click "OK" in the popup window.
 5) The rotatable graph equation is now in your clipboard.
 6) Go on Desmos again.
