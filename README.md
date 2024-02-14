@@ -30,6 +30,3 @@ Check out RedBeanieMaths' video on this topic
 
 # Be Aware:
 I'm not a good mathematician nor a good programmer so the app might have some bugs.
-
-# Bug Report, Help & Contact:
-ozdmr.cnr07@gmail.com
